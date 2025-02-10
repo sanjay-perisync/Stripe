@@ -33,7 +33,7 @@ function Start() {
                   onClick={handleClick}
                   className="flex items-center justify-center px-4  bg-indigo-500 text-white rounded-lg hover:bg-indigo-700 transition-colors"
                 >
-                  <span className='py-1'>Add business information</span>
+                  <span className='py-2'>Add business information</span>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="h-5 w-5 ml-2"
